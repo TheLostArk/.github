@@ -1,0 +1,7 @@
+{
+  "name": "[LINT] Terraform",
+  "description": "Linter for terraform repos starter workflow.",
+  "categories": [
+      "terraform"
+  ]
+}
