@@ -1,5 +1,5 @@
 # base terraform workflow using super-linter to enforce linting
-name: linter-terraform-please-work
+name: linter-terraform
 
 # Controls when the workflow will run
 on:
